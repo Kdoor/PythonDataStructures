@@ -3,7 +3,7 @@ class Solution(object):
         """
         Python 2
         Note:
-        Using queue for DFS
+        Using queue for BFS
         """
         queue = deque()
         if not root:
